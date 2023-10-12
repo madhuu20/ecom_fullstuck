@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "productsName": "flowers",
+      "productsPrice": "23",
+      "image": "https://plus.unsplash.com/premium_photo-1696886122461-ccbd8749cc15?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "stock": "2222",
+      "isAvailable": "21",
+      "device": "mobile",
+      "id": 2,
+      "productName": "sDzzxf",
+      "productPrice": "2233222"
+    },
+    {
+      "productName": "dell",
+      "productPrice": "23424",
+      "image": "https://plus.unsplash.com/premium_photo-1696886122461-ccbd8749cc15?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "stock": "232",
+      "isAvailable": "21",
+      "id": 3
+    },
+    {
+      "productName": "mouse",
+      "productPrice": "100",
+      "image": "https://plus.unsplash.com/premium_photo-1696886122461-ccbd8749cc15?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "stock": "10",
+      "isAvailable": "5",
+      "id": 4
+    }
+  ]
+}
